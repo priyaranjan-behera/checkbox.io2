@@ -10,7 +10,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['Checkbox-Demo'],
+  app_name: ['Checkbox-AWS'],
   /**
    * Your New Relic license key.
    */
